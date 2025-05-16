@@ -82,7 +82,7 @@ python app.py
 
 ---
 
-7. Key Features
+## 7. Key Features
 
 Responsive and mobile-friendly interface
 
