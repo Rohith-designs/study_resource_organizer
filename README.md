@@ -76,10 +76,7 @@ pip install -r requirements.txt
 python app.py
 
 > Note: Ensure all required dependencies listed in requirements.txt are installed.
-
-
-
-
+```
 ---
 
 ## 7. Key Features
@@ -96,7 +93,7 @@ Clean codebase with comments and modular structure
 
 ---
 
-8. Demonstration
+## 8. Demonstration
 
 Provide relevant screenshots or a demo video:
 
@@ -106,7 +103,7 @@ You can also link to a hosted version or video walkthrough.
 
 ---
 
-9. Challenges Encountered
+## 9. Challenges Encountered
 
 Integrating third-party libraries with minimal documentation
 
@@ -118,7 +115,7 @@ Adapting to a new tech stack within limited time
 
 ---
 
-10. Scope for Future Enhancements
+## 10. Scope for Future Enhancements
 
 Deploying the project on cloud (e.g., Heroku, Firebase Hosting)
 
@@ -132,20 +129,20 @@ Integrating unit testing for better code quality assurance
 
 ---
 
-11. Conclusion
+## 11. Conclusion
 
 This internship project significantly contributed to my technical and professional development. It offered a comprehensive experience in applying theoretical concepts to solve real-world problems while adhering to industry standards in code quality and documentation.
 
 
 ---
 
-12. Acknowledgements
+## 12. Acknowledgements
 
 I would like to express my gratitude to the Hack Culprit team for the opportunity, mentorship, and support throughout this project. Special thanks to my peers and mentors who provided feedback and guidance during the development process.
 
 
 ---
 
-13. License
+## 13. License
 
 This project is distributed under the MIT License
