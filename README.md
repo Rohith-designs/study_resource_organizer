@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# Hack Culprit Virtual Internship - Project Report
 
-## Project info
+## Project Title: Study Resource Organizer
 
-**URL**: https://lovable.dev/projects/48f5f9d8-dbb1-44a5-b201-8b3ed73f15bf
+### Submitted by:
+**Name:** Adaka Venkata Rohith  
+**Internship Role:** Virtual Intern  
+**Organization:** Hack Culprit  
+**GitHub Profile:** Rohith-designs(https://github.com/Rohith-designs)  
+**Project Duration:** 1st  may 2025 – 31st may 2025
+**Project Repository:** https://github.com/Rohith-designs/study_resource_organizer
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 1. Executive Summary
 
-**Use Lovable**
+This document outlines the design, development, and implementation of the project titled **"[Project Title]"**, undertaken as part of the Hack Culprit Virtual Internship. The objective was to build a practical, technically sound solution using modern tools and frameworks. The project enhances key skills such as problem-solving, collaboration through GitHub, and real-world application of theoretical knowledge.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/48f5f9d8-dbb1-44a5-b201-8b3ed73f15bf) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 2. Problem Statement
 
-**Use your preferred IDE**
+[Briefly describe the challenge or gap the project addresses.]
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+*Example:*  
+In the current digital landscape, users often struggle to securely manage numerous passwords. This project provides a lightweight, user-friendly password manager leveraging secure encryption methods to store credentials locally.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 3. Project Objectives
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- To gain practical exposure to full-cycle software development  
+- To apply learned concepts in a real-world scenario  
+- To utilize version control and collaborative tools effectively  
+- To develop a feature-rich application that addresses a real problem  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 4. Development Approach
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+The project was completed in four key stages:
 
-**Edit a file directly in GitHub**
+- **Requirement Analysis & Planning** – Defined scope, tools, and expected outcomes  
+- **Development** – Coded core functionalities using [Tech Stack]  
+- **Testing & Debugging** – Iterative bug fixes and feature validation  
+- **Documentation & Deployment** – Professional README and project structure  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 5. Tools & Technologies
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+| Category        | Tools / Technologies Used          |
+|----------------|------------------------------------|
+| Programming    | Python, JavaScript, HTML, CSS      |
+| Frameworks     | Flask / React / Bootstrap          |
+| Database       | SQLite / Firebase / MongoDB        |
+| Tools          | Git, GitHub, VS Code, Postman      |
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 6. Installation & Setup
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+To run this project locally, follow the steps below:
 
-## How can I deploy this project?
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/project-name.git
 
-Simply open [Lovable](https://lovable.dev/projects/48f5f9d8-dbb1-44a5-b201-8b3ed73f15bf) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# Navigate to the project directory
+cd project-name
